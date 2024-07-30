@@ -1,3 +1,8 @@
-# HyperRegion
+# HyperRegion: Integrating Graph and Hypergraph Contrastive Learning for Region Embeddings
 
-Code will be uploaded soon
+PyTorch Implementation of JLPR
+
+To run the code, cd to *model* folder:
+
+`python train.py`
+
